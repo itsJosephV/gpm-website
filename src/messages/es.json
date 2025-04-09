@@ -1,0 +1,236 @@
+{
+  "navigation": {
+    "navbar": {
+      "group": {
+        "label": "El Grupo",
+        "slug": "grupo",
+        "submenu": {
+          "history": {
+            "label": "Historia",
+            "slug": "historia",
+            "description": "Génesis y hitos más importante desde 1968"
+          },
+          "socialResponsibility": {
+            "label": "Responsabilidad social",
+            "slug": "responsabilidad",
+            "description": "Compromiso y estado no financiero del Grupo y filiales"
+          },
+          "quality": {
+            "label": "Calidad y medioambiente",
+            "slug": "calidad",
+            "description": "Gestión eficaz, normas y certificaciones"
+          },
+          "ethicalCode": {
+            "label": "Código ético",
+            "slug": "codigo-etico",
+            "description": "Valores, guías y políticas éticas del Grupo"
+          }
+        }
+      },
+      "business": {
+        "label": "Áreas de negocio",
+        "slug": "negocios",
+        "submenu": {
+          "construction": {
+            "label": "Construcción",
+            "slug": "construccion",
+            "description": "Pérez Moreno S.A.U, parque de maquinarias y servicios"
+          },
+          "tourism": {
+            "label": "Turismo",
+            "slug": "turismo",
+            "description": "Relaxia, Aqualava WaterPark y otros alojamientos"
+          },
+          "realEstate": {
+            "label": "Promoción inmobiliaria",
+            "slug": "promocion-inmobiliaria",
+            "description": "Solinca, promoción de viviendas y locales"
+          },
+          "environment": {
+            "label": "Medioambiente",
+            "slug": "medioambiente",
+            "description": "Ayagaures, jardinería, limpieza y residuos"
+          }
+        }
+      },
+      "news": {
+        "label": "Noticias",
+        "slug": "noticias"
+      },
+      "contact": {
+        "label": "Contacto",
+        "slug": "contacto"
+      },
+      "employment": {
+        "label": "Trabaja con nosotros",
+        "slug": "empleo"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "slug": "facebook"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "slug": "linkedin"
+      }
+    },
+    "LocaleSwitcher": {
+      "label": "Lenguaje",
+      "locale": "{locale, select, es {Español} en {English} other {Unknown}}"
+    }
+  },
+  "Home": {
+    "hero": "Impulsamos la prosperidad sostenible",
+    "heroSub": "Afrontamos los grandes desafíos globales con soluciones <innovative>innovadoras</innovative> y <tailored>adaptadas</tailored> al territorio.",
+    "intro": {
+      "experts-in": "Expertos en",
+      "construction": "Construcción",
+      "tourism": "Turismo",
+      "real-estate-promotion": "Promoción inmobiliaria",
+      "environment": "Medioambiente",
+      "since-1968": "desde 1968."
+    },
+    "companyFields": {
+      "heading": "Conoce nuestras áreas",
+      "fields": {
+        "perezmoreno": {
+          "title": "Ciudades y territorios sostenibles y seguros.",
+          "description": "Especializada en obras civiles y edificación, destacando movimientos de tierras, urbanizaciones, viales, obras hidráulicas, industriales."
+        },
+        "relaxia": {
+          "title": "Turismo responsable con las comunidades y el territorio.",
+          "description": "Con 6 alojamientos en Gran Canaria y Lanzarote, y Aqualava WaterPark, apuesta por un turismo responsable y sostenible."
+        },
+        "solinca": {
+          "title": "Innovación en soluciones de hábitat y bienestar.",
+          "description": "Nuestra promotora inmobiliaria ofrece viviendas, locales y garajes de calidad, respaldados por el Grupo Pérez Moreno."
+        },
+        "ayagaures": {
+          "title": "Economía circular centrada en energía y residuos.",
+          "description": "Especializada en jardinería, zonas verdes, limpieza viaria, residuos, energías renovables y economía circular."
+        }
+      },
+      "ods": {
+        "06": {
+          "description": "Agua limpia y saneamiento"
+        },
+        "07": {
+          "description": "Energía asequible y no contaminante"
+        },
+        "08": {
+          "description": "Trabajo decente y crecimiento económico"
+        },
+        "09": {
+          "description": "Industria innovación e infraestructura"
+        },
+        "11": {
+          "description": "Ciudades y comunidades sostenibles"
+        },
+        "12": {
+          "description": "Producción y consumo responsables"
+        },
+        "13": {
+          "description": "Acción por el clima"
+        },
+        "15": {
+          "description": "Vida de ecosistemas terrestres"
+        }
+      }
+    },
+    "about-gpm": {
+      "heading": "Sobre nosotros",
+      "content-blocks": {
+        "history": {
+          "heading": "Historia",
+          "content": "En 1968, nació la constructora Pérez Moreno, que marcó el inicio de una historia de compromiso, excelencia y visión. En 2002, los hermanos Domingo, Basilio y Pedro Pérez Moreno fundaron el actual Grupo Pérez Moreno, cimentado en valores fundamentales como la honradez, la seriedad y la profesionalidad."
+        },
+        "social-responsibility": {
+          "heading": "Resposabilidad social",
+          "content": "Nuestra estrategia empresarial refleja un firme compromiso con la calidad, respaldado por la profesionalidad de nuestro equipo humano.Creemos en la importancia de preservar el medio ambiente"
+        },
+        "quality": {
+          "heading": "Calidad y medioambiente",
+          "content": "Asumimos con responsabilidad nuestro compromiso con la calidad y el medioambiente, consolidado a través de nuestro Sistema de Gestión Integrado. Este compromiso está reflejado en nuestra Política de Calidad y Ambiental"
+        },
+        "ethical-code": {
+          "heading": "Código ético",
+          "content": "Nuestro código ético refleja nuestro compromiso con la integridad, la transparencia y la responsabilidad social, valores que inspiran nuestras acciones y definen nuestra cultura empresarial"
+        }
+      }
+    },
+    "news": {
+      "heading": "Últimas noticias",
+      "more-news-btn": "Ver más noticias",
+      "arrows": {
+        "previous": "Noticia anterior",
+        "next": "Siguientes noticias"
+      },
+      "card": {
+        "read-more": "Leer más"
+      }
+    }
+  },
+  "Group": {
+    "history-page": {
+      "heading": "Historia del Grupo Pérez Moreno",
+      "description": "En 1968, nació la constructora Pérez Moreno, que marcó el inicio de una historia de compromiso, excelencia y visión. En 2002, los hermanos Domingo, Basilio y Pedro Pérez Moreno fundaron el actual Grupo Pérez Moreno, cimentado en valores fundamentales como la honradez, la seriedad y la profesionalidad."
+    },
+   "social-responsibility-page": {
+    "first-section": {
+      "heading": "Resposabilidad social",
+      "description": "En el <bold>Grupo Pérez Moreno</bold> Nuestra estrategia empresarial refleja un firme compromiso con la calidad, respaldado por la profesionalidad de nuestro equipo humano. Creemos en la importancia de preservar el medio ambiente, promoviendo políticas responsables que priorizan la seguridad laboral en cada actividad que realizamos y en cada proyecto que emprendemos."
+    },
+    "second-section": {
+      "phrase": "Más de 50 años de experiencia, avaladas por la <caslen>excelencia</caslen>.",
+      "first-text-block": {
+        "first-paragraph": "El compromiso que asumimos hace más de cinco décadas ha sido reconocido por <bold>APPLUS</bold>, líder en certificación de calidad empresarial. Aspectos fundamentales como la organización, la optimización de recursos, la modernización y la atención a retos sociales son los pilares que guían a cada persona que forma parte del Grupo.",
+        "second-paragraph": "Nuestro objetivo es claro, <bold>perdurar de manera sostenible y con excelencia</bold>, manteniéndonos siempre abiertos a nuevas oportunidades que nos permitan mejorar. Este enfoque significa trabajar con dedicación para honrar el legado de nuestros fundadores y transmitirlo con orgullo a las futuras generaciones, comprometidos con la responsabilidad social y medioambiental."
+      },
+      "second-text-block": {
+        "title": "Excelencia por encima de la grandeza",
+        "paragraph": "En el <bold>Grupo Pérez Moreno</bold>, no buscamos ser los más grandes, sino los mejores. Para ello, respetamos los factores externos, generamos valor de manera sostenible y nos anticipamos a los desafíos empresariales y sociales del futuro. La innovación forma parte de nuestro ADN, gracias a la implementación de herramientas de conocimiento que fortalecen todas nuestras áreas de actuación."
+      },
+      "third-text-block": {
+        "title": "Compromiso con la comunidad",
+        "first-paragraph": "Nuestra sensibilidad social y vocación de servicio nos llevan a colaborar activamente con la comunidad. Apoyamos asociaciones vecinales, ayudamos a sectores vulnerables y gestionamos instalaciones deportivas municipales, promoviendo el deporte autóctono canario como una muestra más de nuestro compromiso con las tradiciones locales.",
+        "second-paragraph": "Además, colaboramos con fundaciones que trabajan para mejorar la calidad de vida de las personas, impulsamos eventos culturales y de ocio en diversos municipios, y contribuimos a la rehabilitación del patrimonio histórico y artístico. En el <bold>Grupo Pérez Moreno</bold>, cada acción, cada proyecto y cada colaboración están orientados a construir un futuro más próspero y sostenible. Nuestro compromiso es con las personas, el medio ambiente y la excelencia en cada uno de los desafíos que enfrentamos."
+      },
+      "non-finantial-state": {
+        "title": "Estado de información no financiera",
+        "sub-title": "Grupo Pérez Moreno, S.L. and subsidiaries"
+      }
+    }
+    },
+    "quality-page": {
+     "first-section": {
+        "heading": "Calidad y medioambiente",
+        "description": "En el <bold>Grupo Pérez Moreno</bold>, asumimos con responsabilidad nuestro compromiso con la calidad y el medioambiente, consolidado a través de nuestro Sistema de Gestión Integrado. Este compromiso está reflejado en nuestra Política de Calidad y Ambiental, diseñada por nuestra Direccíon y alineada con la Política General de la Empresa, siendo aplicada a toda la organización."
+      },
+      "second-section": {
+      "phrase": "<caslen>Sostenibilidad</caslen> como eje de nuestra gestión y proyectos.",
+      "bento-content": {
+        "first-block-text": "Nuestra apuesta por un sistema de gestión eficaz se fundamenta en los estándares de excelencia establecidos por las normas <bold>UNE-EN ISO 9001</bold> y <bold>UNE-EN ISO 14001</bold>, que guían nuestras operaciones hacia la sostenibilidad y el respeto al entorno",
+        "second-block-text": "En el <bold>Grupo Pérez Moreno</bold>, integramos la sostenibilidad en cada proyecto, creando un equilibrio entre el progreso económico, la preservación del entorno y la promoción cultural. Desde nuestras actividades en la construcción hasta la gestión de servicios y alojamientos, trabajamos por un futuro en el que la calidad y el respeto al medioambiente sean pilares fundamentales."
+      }
+    }
+    },
+    "ethical-code-page": {
+      "first-section": {
+        "heading": "Código Ético",
+        "description": "En <bold>Grupo Pérez Moreno</bold>, nuestro código ético refleja nuestro compromiso con la <bold>integridad</bold>, la <bold>transparencia</bold> y la <bold>responsabilidad social</bold>, valores que inspiran nuestras acciones y definen nuestra cultura empresarial. Creemos firmemente en construir un entorno basado en el respeto mutuo y la confianza."
+      },
+      "second-section": {
+      "title": "Guías y Políticas Éticas del Grupo Pérez Moreno",
+      "guides-and-ethical-politics": {
+        "PCPCR": "Política de Cumplimiento y Prevención de Riesgos Penales",
+        "PSIIPD": "Política del Sistema Interno de Información y Protección al Denunciante",
+        "PA": "Política anticorrupción",
+        "CC": "Código de conducta",
+        "PSIPD": "Procedimiento del Sistema Interno de Información y Protección al Denunciante",
+        "CE": "Canal ético"
+      },
+      "last-updated": "Datos actualizados el {date}"
+    }
+    }
+  }
+}

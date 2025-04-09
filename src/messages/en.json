@@ -1,0 +1,236 @@
+{
+  "navigation": {
+    "navbar": {
+      "group": {
+        "label": "The Group",
+        "slug": "group",
+        "submenu": {
+          "history": {
+            "label": "History",
+            "slug": "history",
+            "description": "Genesis and most important milestones since 1968"
+          },
+          "socialResponsibility": {
+            "label": "Social responsibility",
+            "slug": "responsibility",
+            "description": "Commitment and non-financial status of the Group and subsidiaries"
+          },
+          "quality": {
+            "label": "Quality and environment",
+            "slug": "quality",
+            "description": "Effective management, standards and certifications"
+          },
+          "ethicalCode": {
+            "label": "Ethical code",
+            "slug": "ethical-code",
+            "description": "Values, ethical guidelines and policies of the Group"
+          }
+        }
+      },
+      "business": {
+        "label": "Business areas",
+        "slug": "business",
+        "submenu": {
+          "construction": {
+            "label": "Construction",
+            "slug": "construction",
+            "description": "Pérez Moreno S.A.U, machinery park and services"
+          },
+          "tourism": {
+            "label": "Tourism",
+            "slug": "tourism",
+            "description": "Relaxia, Aqualava WaterPark and other accommodations"
+          },
+          "realEstate": {
+            "label": "Real estate promotion",
+            "slug": "real-estate-promotion",
+            "description": "Solinca, promotion of homes and premises"
+          },
+          "environment": {
+            "label": "Environment",
+            "slug": "environment",
+            "description": "Ayagaures, gardening, cleaning and waste"
+          }
+        }
+      },
+      "news": {
+        "label": "News",
+        "slug": "news"
+      },
+      "contact": {
+        "label": "Contact",
+        "slug": "contact"
+      },
+      "employment": {
+        "label": "Work with us",
+        "slug": "employment"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "slug": "facebook"
+      },
+      "linkedIn": {
+        "label": "LinkedIn",
+        "slug": "linkedin"
+      }
+    },
+    "LocaleSwitcher": {
+      "label": "Language",
+      "locale": "{locale, select, es {Español} en {English} other {Unknown}}"
+    }
+  },
+  "Home": {
+    "hero": "We promote sustainable prosperity",
+    "heroSub": "We tackle major global challenges with <innovative>innovative</innovative> and <tailored>territory-adapted</tailored> solutions.",
+    "intro": {
+      "experts-in": "Experts in",
+      "construction": "Construction",
+      "tourism": "Tourism",
+      "real-estate-promotion": "Real estate promotion",
+      "environment": "Environment",
+      "since-1968": "since 1968."
+    },
+    "companyFields": {
+      "heading": "Discover our fields",
+      "fields": {
+        "perezmoreno": {
+          "title": "Sustainable and safe cities and territories.",
+          "description": "Specialized in civil works and building, highlighting earthworks, urbanizations, roads, hydraulic works, industrial works."
+        },
+        "relaxia": {
+          "title": "Responsible tourism with communities and the territory.",
+          "description": "With 6 accommodations in Gran Canaria and Lanzarote, and Aqualava WaterPark, it bets on responsible and sustainable tourism."
+        },
+        "solinca": {
+          "title": "Innovation in habitat and well-being solutions.",
+          "description": "Our real estate developer offers quality homes, premises and garages, backed by Grupo Pérez Moreno."
+        },
+        "ayagaures": {
+          "title": "Circular economy focused on energy and waste.",
+          "description": "Specialized in gardening, green areas, street cleaning, waste, renewable energies and circular economy."
+        }
+      },
+      "ods": {
+        "06": {
+          "description": "Clean water and sanitation"
+        },
+        "07": {
+          "description": "Affordable and clean energy"
+        },
+        "08": {
+          "description": "Decent work and economic growth"
+        },
+        "09": {
+          "description": "Industry, innovation and infrastructure"
+        },
+        "11": {
+          "description": "Sustainable cities and communities"
+        },
+        "12": {
+          "description": "Responsible production and consumption"
+        },
+        "13": {
+          "description": "Climate action"
+        },
+        "15": {
+          "description": "Life on land"
+        }
+      }
+    },
+    "about-gpm": {
+      "heading": "About us",
+      "content-blocks": {
+        "history": {
+          "heading": "Our history",
+          "content": "In 1968, the construction company Pérez Moreno was born, marking the beginning of a history of commitment, excellence and vision. In 2002, the brothers Domingo, Basilio and Pedro Pérez Moreno founded the current Grupo Pérez Moreno, based on fundamental values such as honesty, seriousness and professionalism."
+        },
+        "social-responsibility": {
+          "heading": "Social responsibility",
+          "content": "Our business strategy reflects a firm commitment to quality, backed by the professionalism of our human team. We believe in the importance of preserving the environment"
+        },
+        "quality": {
+          "heading": "Quality",
+          "content": "We responsibly assume our commitment to quality and the environment, consolidated through our Integrated Management System. This commitment is reflected in our Quality and Environmental Policy."
+        },
+        "ethical-code": {
+          "heading": "Ethical code",
+          "content": "Our ethical code reflects our commitment to integrity, transparency and social responsibility, values that inspire our actions and define our corporate culture."
+        }
+      }
+    },
+    "news": {
+      "heading": "Recent news",
+      "more-news-btn": "See more news",
+      "arrows": {
+        "previous": "Previous news",
+        "next": "Next news"
+      },
+      "card": {
+        "read-more": "Read more"
+      }
+    }
+  },
+  "Group": {
+    "history-page": {
+      "heading": "The History of Grupo Pérez Moreno",
+      "description": "In 1968, the construction company Pérez Moreno was born, marking the beginning of a history of commitment, excellence and vision. In 2002, the brothers Domingo, Basilio and Pedro Pérez Moreno founded the current Grupo Pérez Moreno, based on fundamental values such as honesty, seriousness and professionalism."
+    },
+    "social-responsibility-page": {
+    "first-section": {
+      "heading": "Social responsibility",
+      "description": "In <bold>Grupo Pérez Moreno</bold>, our business strategy reflects a firm commitment to quality, backed by the professionalism of our human team. We believe in the importance of preserving the environment, promoting responsible policies that prioritize occupational safety in every activity we carry out and in every project we undertake."
+    },
+    "second-section": {
+      "phrase": "More than 50 years of experience, backed by <caslen>excellence</caslen>.",
+      "first-text-block": {
+        "first-paragraph": "The commitment we made more than five decades ago has been recognized by <bold>APPLUS</bold>, a leader in business quality certification. Fundamental aspects such as organization, resource optimization, modernization and attention to social challenges are the pillars that guide each person who is part of the Group.",
+        "second-paragraph": "Our goal is clear, <bold>to endure sustainably and with excellence</bold>, always remaining open to new opportunities that allow us to improve. This approach means working diligently to honor the legacy of our founders and pass it on with pride to future generations, committed to social and environmental responsibility."
+      },
+      "second-text-block": {
+        "title": "Excellence above greatness",
+        "paragraph": "In <bold>Grupo Pérez Moreno</bold>, we do not seek to be the largest, but the best. To achieve this, we respect external factors, generate value sustainably, and anticipate future business and social challenges. Innovation is part of our DNA, thanks to the implementation of knowledge tools that strengthen all our areas of action."
+      },
+      "third-text-block": {
+        "title": "Commitment to the community",
+        "first-paragraph": "Our social sensitivity and vocation for service lead us to actively collaborate with the community. We support neighborhood associations, help vulnerable sectors, and manage municipal sports facilities, promoting local Canarian sports as a further demonstration of our commitment to local traditions.",
+        "second-paragraph": "In addition, we collaborate with foundations that work to improve the quality of life of people, promote cultural and leisure events in various municipalities, and contribute to the rehabilitation of historical and artistic heritage. In <bold>Grupo Pérez Moreno</bold>, every action, every project and every collaboration are aimed at building a more prosperous and sustainable future. Our commitment is to people, the environment and excellence in each of the challenges we face."
+      },
+      "non-finantial-state": {
+        "title": "Non-financial information status",
+        "sub-title": "Grupo Pérez Moreno, S.L. and subsidiaries"
+      }
+    }
+    },
+    "quality-page": {
+      "first-section": {
+        "heading": "Quality and environment",
+        "description": "In <bold>Grupo Pérez Moreno</bold>, we responsibly assume our commitment to quality and the environment, consolidated through our Integrated Management System. This commitment is reflected in our Quality and Environmental Policy, designed by our Management and aligned with the General Policy of the Company, being applied to the entire organization."
+      },
+      "second-section": {
+      "phrase": "<caslen>Sustainability</caslen> as the axis of our management and projects.",
+      "bento-content": {
+        "first-block-text": "Our commitment to an effective management system is based on the excellence standards established by the <bold>UNE-EN ISO 9001</bold> and <bold>UNE-EN ISO 14001</bold> standards, which guide our operations towards sustainability and respect for the environment.",
+        "second-block-text": "At <bold>Grupo Pérez Moreno</bold>, we integrate sustainability into every project, creating a balance between economic progress, environmental preservation, and cultural promotion. From our activities in construction to the management of services and accommodations, we work towards a future where quality and respect for the environment are fundamental pillars."
+      }
+    }
+    },
+    "ethical-code-page": {
+      "first-section": {
+        "heading": "Ethical Code",
+        "description": "In <bold>Grupo Pérez Moreno</bold>, our ethical code reflects our commitment to <bold>integrity</bold>, <bold>transparency</bold>, and <bold>social responsibility</bold>, values that inspire our actions and define our corporate culture. We firmly believe in building an environment based on mutual respect and trust."
+      },
+      "second-section": {
+      "title": "Guides and Ethical Policies of Grupo Pérez Moreno",
+      "guides-and-ethical-politics": {
+        "PCPCR": "Compliance and Prevention of Criminal Risks Policy",
+        "PSIIPD": "Internal Information and Whistleblower Protection System Policy",
+        "PA": "Anti-corruption Policy",
+        "CC": "Code of conduct",
+        "PSIPD": "Internal Information and Whistleblower Protection System Procedure",
+        "CE": "Ethical channel"
+      },
+      "last-updated": "Data updated on {date}"
+    }
+    }
+  }
+}
