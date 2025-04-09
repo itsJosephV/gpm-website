@@ -1,7 +1,64 @@
 @import 'tailwindcss';
 
-:root {
-  color-scheme: light dark;
-  color: CanvasText;
-  background-color: Canvas;
+* {
+  min-width: 0;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+@theme {
+  /* COLORES DEL LAYOUT */
+  --color-layout-background: hsl(0, 0%, 100%);
+  --color-layout-border: hsl(0, 0%, 92%);
+  --color-layout-text: hsl(0, 0%, 40%);
+
+  /* GPM BLUE */
+
+  /* SOLID COLORS */
+  --color-gpmBlue-solid-10: oklch(19% 0.1316 264.1);
+
+  /* ACCESSIBLE TEXT */
+  --color-gpmBlue-atext-12: oklch(31.3% 0.1316 264.1);
+  --color-gpmBlue-atext-11: oklch(51% 0.1675 264.1);
+
+  /* BORDERS & SEPARATORS */
+  --color-gpmBlue-border-8: oklch(73% 0.1675 264.1);
+  --color-gpmBlue-border-7: oklch(80.7% 0.1273 264.1);
+  --color-gpmBlue-border-6: oklch(86.4% 0.103 264.1);
+
+  /* INTERACTIVE COMPONENTS */
+  --color-gpmBlue-interactive-5: oklch(90.4% 0.075 264.1);
+  --color-gpmBlue-interactive-4: oklch(93.5% 0.0498 264.1);
+  --color-gpmBlue-interactive-3: oklch(96.1% 0.0251 264.1);
+
+  /* BACKGROUNDS */
+  --color-gpmBlue-background-1: oklch(98.2% 0.0123 264.1);
+  --color-gpmBlue-background-2: oklch(99.4% 0.0027 264.1);
+
+
+  /* GPM YELLOW */
+
+  /* SOLID COLORS */
+
+  --color-gpmYellow-solid-10: oklch(88.3% 0.17 96.88);
+
+  /* ACCESSIBLE TEXT */
+  --color-gpmYellow-atext-12: oklch(35.7% 0.0426 96.88);
+  --color-gpmYellow-atext-11: oklch(57.3% 0.1292 96.88);
+
+  /* BORDERS & SEPARATORS */
+  --color-gpmYellow-border-8: oklch(76.5% 0.1292 96.88);
+  --color-gpmYellow-border-7: oklch(83.4% 0.1135 96.88);
+  --color-gpmYellow-border-6: oklch(88.1% 0.1242 96.88);
+
+  /* INTERACTIVE COMPONENTS */
+  --color-gpmYellow-interactive-5: oklch(92.4% 0.1312 96.88);
+  --color-gpmYellow-interactive-4: oklch(95.1% 0.1075 96.88);
+  --color-gpmYellow-interactive-3: oklch(97.3% 0.0766 96.88);
+
+  /* BACKGROUNDS */
+  --color-gpmYellow-background-1: oklch(98.8% 0.0234 96.88);
+  --color-gpmYellow-background-2: oklch(99.3% 0.0044 96.88);
 }
